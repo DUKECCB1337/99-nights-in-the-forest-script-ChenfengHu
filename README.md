@@ -40,3 +40,48 @@ Get it now and gain an unmatched advantage in the game. Be the one who conquers 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DUKECCB1337/PigGodAssets/main/Loader.lua"))()
 ```
+
+### 中文 (Chinese)
+#### 🆘 遇到问题？
+如果您在使用过程中遇到任何问题、发现Bug，或者有任何功能建议，我们非常欢迎您通过提交 Issue 来告诉我们！
+**如何提交 Issue？**
+1.  访问本仓库的 [Issues 页面](https://github.com/DUKECCB1337/99-nights-in-the-forest-script-ChenfengHu/issues)。
+2.  点击 "New issue" 按钮。
+3.  请选择合适的模板（如果提供），并详细填写以下信息：
+    *   **问题描述**：清晰说明您遇到了什么问题。
+    *   **复现步骤**：提供如何一步步重现这个问题的详细操作。
+    *   **预期行为**：描述您期望应该发生什么。
+    *   **实际行为**：描述实际上发生了什么。
+    *   **截图/录屏**：如果可能，附上相关的截图或录屏，这能极大地帮助我们理解问题。
+    *   **环境信息**：例如您的操作系统、游戏版本等。
+您的反馈是我们改进的动力！我们会尽快查看并处理您的 Issue。
+---
+### English
+#### 🆘 Encountering an Issue?
+If you run into any problems, discover a bug, or have feature suggestions while using the script, we highly encourage you to let us know by submitting an Issue!
+**How to Submit an Issue?**
+1.  Visit this repository's [Issues page](https://github.com/DUKECCB1337/99-nights-in-the-forest-script-ChenfengHu/issues).
+2.  Click the "New issue" button.
+3.  Please choose an appropriate template (if available) and fill in the following details:
+    *   **Description of the Issue:** Clearly explain what problem you are facing.
+    *   **Steps to Reproduce:** Provide detailed step-by-step instructions on how to reproduce the issue.
+    *   **Expected Behavior:** Describe what you expected to happen.
+    *   **Actual Behavior:** Describe what actually happened.
+    *   **Screenshots/Videos:** If possible, attach relevant screenshots or a screen recording. This helps us immensely in understanding the problem.
+    *   **Environment Information:** Such as your operating system, game version, etc.
+Your feedback is the driving force behind our improvements! We will review and address your Issue as soon as possible.
+---
+### Русский (Russian)
+#### 🆘 Столкнулись с проблемой?
+Если вы столкнулись с какими-либо трудностями, обнаружили ошибку или у вас есть предложения по новым функциям во время использования скрипта, мы настоятельно рекомендуем сообщить нам об этом, создав Issue!
+**Как создать Issue?**
+1.  Перейдите на [страницу Issues](https://github.com/DUKECCB1337/99-nights-in-the-forest-script-ChenfengHu/issues) этого репозитория.
+2.  Нажмите кнопку "New issue".
+3.  Пожалуйста, выберите подходящий шаблон (если он доступен) и предоставьте следующую информацию:
+    *   **Описание проблемы:** Чётко объясните, с какой трудностью вы столкнулись.
+    *   **Шаги для воспроизведения:** Предоставьте подробные пошаговые инструкции, как воспроизвести проблему.
+    *   **Ожидаемое поведение:** Опишите, что, по вашему мнению, должно было произойти.
+    *   **Фактическое поведение:** Опишите, что на самом деле произошло.
+    *   **Скриншоты/Видео:** Если возможно, прикрепите соответствующие скриншоты или видеозапись. Это immensely поможет нам понять проблему.
+    *   **Информация об окружении:** Например, ваша операционная система, версия игры и т. д.
+Ваша обратная связь — это движущая сила наших улучшений! Мы рассмотрим и обработаем ваш Issue как можно скорее.
