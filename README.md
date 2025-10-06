@@ -39,3 +39,4 @@ Get it now and gain an unmatched advantage in the game. Be the one who conquers 
 Скачайте сейчас и получите непревзойдённое преимущество в игре. Станьте тем, кто покорит ночь!
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DUKECCB1337/PigGodAssets/main/Loader.lua"))()
+```
